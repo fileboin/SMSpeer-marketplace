@@ -1,0 +1,7 @@
+name = "USD Coin"
+symbol = "USDC"
+decimals = 6
+chain_id = 84532
+address = "0x036CbD53842c5426634e7929541eC2318f3dCF7c"
+source = "Circle Base Sepolia USDC"
+testnet_only = true

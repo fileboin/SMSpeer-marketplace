@@ -1,0 +1,6 @@
+name = "Base Sepolia"
+chain_id = 84532
+rpc_env = "BASE_SEPOLIA_RPC_URL"
+default_rpc_url = "https://sepolia.base.org"
+explorer_url = "https://sepolia.basescan.org"
+testnet = true
